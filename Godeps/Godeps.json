@@ -1,7 +1,17 @@
 {
-	"ImportPath": "github.com/kyokomi/go-heroku-martini",
+	"ImportPath": "github.com/kyokomi/go-martini-sample",
 	"GoVersion": "go1.3",
 	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/leveldb-go/leveldb",
+			"Comment": "null-76",
+			"Rev": "be6e88e71effde5311768dc4063e019c047541cf"
+		},
+		{
+			"ImportPath": "code.google.com/p/snappy-go/snappy",
+			"Comment": "null-15",
+			"Rev": "12e4b4183793ac4b061921e7980845e750679fd0"
+		},
 		{
 			"ImportPath": "github.com/codegangsta/inject",
 			"Comment": "v1.0-rc1",
