@@ -24,3 +24,6 @@ _testmain.go
 /gin-bin
 .idea
 hogeDB/
+
+# Godep
+Godeps/_workspace
