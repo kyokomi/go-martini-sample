@@ -1,6 +1,7 @@
-# go-martini-sample
+go-martini-sample
+=================
 
-sample web application with golang.
+sample web application with golang
 
 ## Live code reload ##
 
