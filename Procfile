@@ -1,1 +1,1 @@
-web: go-heroku-martini
+web: go-martini-sample
