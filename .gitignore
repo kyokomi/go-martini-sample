@@ -25,5 +25,3 @@ _testmain.go
 .idea
 hogeDB/
 
-# Godep
-Godeps/_workspace
