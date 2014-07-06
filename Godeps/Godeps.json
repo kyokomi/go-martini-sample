@@ -3,16 +3,6 @@
 	"GoVersion": "go1.3",
 	"Deps": [
 		{
-			"ImportPath": "code.google.com/p/leveldb-go/leveldb",
-			"Comment": "null-76",
-			"Rev": "be6e88e71effde5311768dc4063e019c047541cf"
-		},
-		{
-			"ImportPath": "code.google.com/p/snappy-go/snappy",
-			"Comment": "null-15",
-			"Rev": "12e4b4183793ac4b061921e7980845e750679fd0"
-		},
-		{
 			"ImportPath": "github.com/codegangsta/inject",
 			"Comment": "v1.0-rc1",
 			"Rev": "37d7f8432a3e684eef9b2edece76bdfa6ac85b39"
@@ -21,6 +11,10 @@
 			"ImportPath": "github.com/go-martini/martini",
 			"Comment": "v1.0-12-gacd8dd3",
 			"Rev": "acd8dd3c3f49fe761830351c2710d192193ca236"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Rev": "71e406bc794a7c7f38f8b124ed335fcfcc3b9676"
 		}
 	]
 }
